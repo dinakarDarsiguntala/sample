@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sample/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/sample/static/js/main.c57e18fb.chunk.js",
+    "main.js.map": "/sample/static/js/main.c57e18fb.chunk.js.map",
+    "runtime-main.js": "/sample/static/js/runtime-main.48f0d339.js",
+    "runtime-main.js.map": "/sample/static/js/runtime-main.48f0d339.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/sample/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.dead2742.chunk.js": "/sample/static/js/2.dead2742.chunk.js",
+    "static/js/2.dead2742.chunk.js.map": "/sample/static/js/2.dead2742.chunk.js.map",
+    "static/js/3.f468685a.chunk.js": "/sample/static/js/3.f468685a.chunk.js",
+    "static/js/3.f468685a.chunk.js.map": "/sample/static/js/3.f468685a.chunk.js.map",
+    "index.html": "/sample/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/sample/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/sample/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.dead2742.chunk.js.LICENSE.txt": "/sample/static/js/2.dead2742.chunk.js.LICENSE.txt",
+    "static/media/lenovo1.c31b722c.jpg": "/sample/static/media/lenovo1.c31b722c.jpg",
+    "static/media/macpro.37a28093.jpg": "/sample/static/media/macpro.37a28093.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48f0d339.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.dead2742.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c57e18fb.chunk.js"
+  ]
+}
